@@ -1,5 +1,7 @@
+=======
 Server Information Viewer
-=====
+===========
+
 This is a tool to check installed software in your computer.
 
 # Supported software
@@ -14,4 +16,3 @@ This is a tool to check installed software in your computer.
 - MediaWiki(--mediawiki)
 - Markdown(--markdown)
 - HTML(--html)
-
